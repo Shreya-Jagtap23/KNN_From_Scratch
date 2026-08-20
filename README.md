@@ -1,7 +1,7 @@
 # KNN From Scratch
 
 ## 📌 Project Overview
-
+User defined KNN 
 This project is a simple implementation of the **K-Nearest Neighbors (KNN) Classification algorithm from scratch using Python**.
 
 Instead of using a ready-made KNN classifier, the program manually calculates distances, sorts the data points, selects the nearest neighbors, and performs voting to determine the classification.
